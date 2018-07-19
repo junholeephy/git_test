@@ -1,5 +1,22 @@
 TEST file 
 JUNHO TRUE
+JUNHO false
+LEE false
+THIS false
+IS false
+MY false
+NAME false
+
+THIS false
+IS false
+TO false
+SEE false
+HOW false
+I false
+CAN false
+HANDLE false
+CONFLICT false
+JUNHO true
 LEE true
 THIS true
 IS TRUE
@@ -15,4 +32,3 @@ I true
 CAN TRUE
 HANDLE true
 CONFLICT true
-
