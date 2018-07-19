@@ -1,4 +1,5 @@
 TEST file 
+<<<<<<< HEAD  first time
 JUNHO false
 LEE false
 THIS false
@@ -15,3 +16,21 @@ I false
 CAN false
 HANDLE false
 CONFLICT false
+=======
+JUNHO true
+LEE true
+THIS true
+IS true
+MY true
+NAME true
+
+THIS true
+IS true
+TO true
+SEE true
+HOW true
+I true
+CAN true
+HANDLE true
+CONFLICT true
+>>>>>>> 6b1b84c6b1e7aa6b766f1af213e176b732d2bec2 first time
