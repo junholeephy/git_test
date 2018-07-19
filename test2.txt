@@ -1,17 +1,18 @@
 TEST file 
-JUNHO true
+JUNHO TRUE
 LEE true
 THIS true
-IS true
+IS TRUE
 MY true
 NAME true
 
 THIS true
 IS true
 TO true
-SEE true
+SEE TRUE
 HOW true
 I true
-CAN true
+CAN TRUE
 HANDLE true
 CONFLICT true
+
