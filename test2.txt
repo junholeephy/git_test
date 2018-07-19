@@ -1,17 +1,17 @@
 TEST file 
-JUNHO
-LEE
-THIS
-IS
-MY
-NAME
+JUNHO true
+LEE true
+THIS true
+IS true
+MY true
+NAME true
 
-THIS
-IS
-TO
-SEE
-HOW
-I
-CAN
-HANDLE
-CONFLICT
+THIS true
+IS true
+TO true
+SEE true
+HOW true
+I true
+CAN true
+HANDLE true
+CONFLICT true
